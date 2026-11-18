@@ -1,0 +1,7 @@
+build/
+bin/
+*.exe
+*.o
+*.dll
+ma_settings.ini
+editor_build_log.txt
